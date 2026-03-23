@@ -12,9 +12,7 @@ Mechanical Engineering graduate who builds compilers, AI-integrated systems, and
 ## What I am building
 
 - **Kova**: a symbolic AI workflow language with a probabilistic type system. Every AI call returns `Prob<T>`. Uncertainty is structural, not an afterthought. 117 tests passing, live Groq integration, CLI, execution graph engine. [github.com/kova-lang/kova](https://github.com/kova-lang/kova)
-- **AI Speaking Coach** : client project. Real-time speech analysis and fluency feedback powered by Whisper and OpenAI
-- **AgriEthos** : full-stack agriculture platform with wallet authentication, QR traceability, and decentralized identity
-- Web3 platforms, automation systems, and developer tooling
+
 
 ---
 
