@@ -1,16 +1,84 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full-Stack+Engineer;Web3+Developer;AI+Builder;Systems+Thinker)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
-<!--
-**Cybugg/Cybugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Samuel Oguntimehin (Sam) 👋
 
-Here are some ideas to get you started:
+**Full-Stack Engineer | Programming Language Designer | Web3 Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mechanical Engineering graduate who builds compilers, AI-integrated systems, and decentralized applications. I designed and implemented **Kova** : a programming language with a first-class probabilistic type system for AI uncertainty from scratch, including the lexer, parser, semantic analyzer, interpreter, and execution graph engine.
+
+---
+
+## What I am building
+
+- **Kova**: a symbolic AI workflow language with a probabilistic type system. Every AI call returns `Prob<T>`. Uncertainty is structural, not an afterthought. 117 tests passing, live Groq integration, CLI, execution graph engine. [github.com/kova-lang/kova](https://github.com/kova-lang/kova)
+- **AI Speaking Coach** : client project. Real-time speech analysis and fluency feedback powered by Whisper and OpenAI
+- **AgriEthos** : full-stack agriculture platform with wallet authentication, QR traceability, and decentralized identity
+- Web3 platforms, automation systems, and developer tooling
+
+---
+
+## Tech Stack
+
+**Languages**
+`JavaScript` `TypeScript` `Python` `C++` `Solidity` `Motoko` `Kova`
+
+**Systems and PL Theory**
+`Interpreter design` `Recursive-descent parsing` `AST construction` `Semantic analysis` `Type systems` `DSL development` `Execution graph analysis`
+
+**AI and ML**
+`Probabilistic type systems` `Groq API` `OpenAI API` `Whisper STT` `AI workflow integration` `Prompt engineering`
+
+**Backend**
+`Node.js` `Express` `PostgreSQL` `MongoDB` `Prisma ORM` `REST APIs` `Cloud infrastructure`
+
+**Frontend**
+`Next.js (App Router)` `React` `Tailwind CSS`
+
+**Web3**
+`EVM Smart Contracts` `Internet Computer Protocol (ICP)` `Motoko` `Wallet authentication` `dApp architecture` `On-chain asset systems`
+
+**Engineering**
+`SolidWorks` `Thermodynamic modelling` `Mechanical fabrication`
+
+---
+
+## Projects
+
+**Kova Programming Language**  2025–Present
+A programming language built from first principles. Kova introduces `Prob<T>`, a probabilistic type that wraps every AI call result. The semantic analyzer enforces that uncertain values cannot be used without explicit resolution via `resolve()`. The execution graph engine produces a structured map of every program run, showing where AI uncertainty enters and propagates. Built without frameworks: lexer, recursive-descent parser, semantic analyzer, async interpreter, execution graph engine, CLI.
+
+**AgriEthos**  2025
+Full-stack digital agriculture platform connecting farmers, consumers, and reviewers. Wallet-based authentication, QR code traceability, automated verification workflows, production cloud infrastructure. Sole engineer from architecture to deployment.
+
+**GAMEGRID Blockchain**  2024
+Decentralized gaming platform on the Internet Computer Protocol. Smart-contract game logic, on-chain asset ownership, player marketplace. 1st place at ICP DECAHACK Nigeria.
+
+**BEME Automation System**  2024–2025
+Software system to automate generation of Bills of Engineering Measurement and Evaluation for piping systems directly from building plan designs.
+
+**Emoji Cleaner**  2025
+VS Code extension that removes emojis, invisible Unicode characters, and AI-generated text artifacts from codebases. 61+ installs on the VS Code Marketplace.
+
+---
+
+## Experience
+
+- **Lead Software Engineer**: Freevoca (2026–Present)
+- **CTO**: ProficioHQ (2025)
+- **Full-Stack Developer**: AgriEthos (2025)
+- **Developer Advocate**: Internet Computer Protocol (2024–2025)
+- **Research Intern**: Centre for Energy Research and Development, OAU (2024)
+
+---
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/samuel-oguntimehin-1636331b3](https://linkedin.com/in/samuel-oguntimehin-1636331b3)
+- Email: oguntimehinsamuel1@gmail.com
+
+---
+
+*I combine engineering precision with software curiosity. Currently exploring the intersection of symbolic program structure and probabilistic AI models.*
+
+⭐️ *If you like what I’m building, feel free to follow and star my projects.*
