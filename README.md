@@ -5,7 +5,7 @@
 
 **Full-Stack Engineer | Programming Language Designer | Web3 Developer**
 
-Mechanical Engineering graduate who builds compilers, AI-integrated systems, and decentralized applications. I designed and implemented **Kova** : a programming language with a first-class probabilistic type system for AI uncertainty from scratch, including the lexer, parser, semantic analyzer, interpreter, and execution graph engine.
+Mechanical Engineering graduate who builds compilers, AI-integrated systems, and decentralized applications. I designed and implemented **Kova**, a programming language with a first-class probabilistic type system for AI uncertainty from scratch, including the lexer, parser, semantic analyzer, interpreter, and execution graph engine.
 
 ---
 
