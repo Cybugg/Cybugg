@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full-Stack+Engineer;Web3+Developer;AI+Builder;Systems+Thinker)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=cybugg&color=blue)
 
 # Hi, I'm Samuel Oguntimehin (Sam) 👋
 
@@ -12,7 +12,7 @@ Mechanical Engineering graduate who builds compilers, AI-integrated systems, and
 ## What I am building
 
 - **Kova**: a symbolic AI workflow language with a probabilistic type system. Every AI call returns `Prob<T>`. Uncertainty is structural, not an afterthought. 117 tests passing, live Groq integration, CLI, execution graph engine. [github.com/kova-lang/kova](https://github.com/kova-lang/kova)
-
+- **Nexxibook**:NexxiBook is a location-aware service marketplace that enables users to discover and book nearby service professionals (barbers, makeup artists, nail techs, etc.) through a fast, structured, and reliable platform. [REPO IS PRIVATE]
 
 ---
 
