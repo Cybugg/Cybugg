@@ -60,15 +60,6 @@ VS Code extension that removes emojis, invisible Unicode characters, and AI-gene
 
 ---
 
-## Experience
-
-- **Lead Software Engineer**: Freevoca (2026–Present)
-- **CTO**: ProficioHQ (2025)
-- **Full-Stack Developer**: AgriEthos (2025)
-- **Developer Advocate**: Internet Computer Protocol (2024–2025)
-- **Research Intern**: Centre for Energy Research and Development, OAU (2024)
-
----
 
 ## Connect
 
