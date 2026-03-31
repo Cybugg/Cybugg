@@ -50,7 +50,7 @@ A programming language built from first principles. Kova introduces `Prob<T>`, a
 Full-stack digital agriculture platform connecting farmers, consumers, and reviewers. Wallet-based authentication, QR code traceability, automated verification workflows, production cloud infrastructure. Sole engineer from architecture to deployment.
 
 **GAMEGRID Blockchain**  2024
-Decentralized gaming platform on the Internet Computer Protocol. Smart-contract game logic, on-chain asset ownership, player marketplace. 1st place at ICP DECAHACK Nigeria.
+Decentralized gaming platform on the Internet Computer Protocol. Smart-contract game logic, on-chain asset ownership, player marketplace.
 
 **BEME Automation System**  2024–2025
 Software system to automate generation of Bills of Engineering Measurement and Evaluation for piping systems directly from building plan designs.
