@@ -43,7 +43,8 @@ Mechanical Engineering graduate who builds compilers, AI-integrated systems, and
 
 ## Projects
 
-**Kova Programming Language**  2025–Present
+**Kova Programming Language**   (2025–Present)
+
 A programming language built from first principles. Kova introduces `Prob<T>`, a probabilistic type that wraps every AI call result. The semantic analyzer enforces that uncertain values cannot be used without explicit resolution via `resolve()`. The execution graph engine produces a structured map of every program run, showing where AI uncertainty enters and propagates. Built without frameworks: lexer, recursive-descent parser, semantic analyzer, async interpreter, execution graph engine, CLI.
 
 **AgriEthos**  2025
