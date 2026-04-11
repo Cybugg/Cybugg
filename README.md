@@ -57,7 +57,7 @@ Decentralized gaming platform on the Internet Computer Protocol. Smart-contract 
 Software system to automate generation of Bills of Engineering Measurement and Evaluation for piping systems directly from building plan designs.
 
 **Emoji Cleaner**  2025
-VS Code extension that removes emojis, invisible Unicode characters, and AI-generated text artifacts from codebases. 71+ installs on the VS Code Marketplace.
+VS Code extension that removes emojis, invisible Unicode characters, and AI-generated text artifacts from codebases. 81+ installs on the VS Code Marketplace.
 
 ---
 
