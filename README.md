@@ -71,4 +71,4 @@ VS Code extension that removes emojis, invisible Unicode characters, and AI-gene
 
 *I combine engineering precision with software curiosity. Currently exploring the intersection of symbolic program structure and probabilistic AI models.*
 
-⭐️ *If you like what I’m building, feel free to follow and star my projects.*
+⭐️ *If you like what I’m building, feel free to follow and star my projects. ^ ? ^ *
