@@ -13,7 +13,7 @@ Mechanical Engineering graduate who builds compilers, AI-integrated systems, and
 
 - **Kova**: a symbolic AI workflow language with a probabilistic type system. Every AI call returns `Prob<T>`. Uncertainty is structural, not an afterthought. 119 tests passing, live Groq integration, CLI, execution graph engine. [github.com/kova-lang/kova](https://github.com/kova-lang/kova)
 - **Nexxibook**: NexxiBook is a location-aware service marketplace that enables users to discover and book nearby service professionals (barbers, makeup artists, nail techs, etc.) through a fast, structured, and reliable platform. [REPO IS PRIVATE]
-
+- **Pocket Brain Mobile**: Turn your ideas in to instant capture[REPO IS PRIVATE][To be realeased this week]
 ---
 
 ## Tech Stack
