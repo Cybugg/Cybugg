@@ -1,4 +1,4 @@
-```md
+
 <p align="center">
   <img src="prehistoric.png" width="100%" alt="Prehistoric battlefield art" />
 </p>
@@ -54,4 +54,4 @@ AI-powered mobile thought capture and voice-note system.
 ---
 
 > "Building systems where deterministic software meets probabilistic AI."
-```
+
