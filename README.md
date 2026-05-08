@@ -1,16 +1,13 @@
-<table>
-  <tr>
-    <td width="38%">
-      <img 
-        src="prehistoric.png" 
-        alt="Prehistoric battlefield art"
-        style="width:100%; height:100%; object-fit:cover; border-radius:12px;"
-      />
-    </td>
+```md
+<p align="center">
+  <img src="prehistoric.png" width="100%" alt="Prehistoric battlefield art" />
+</p>
 
-    <td valign="top" width="62%">
+<p align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Full-Stack+Engineer;Programming+Language+Designer;AI+%2B+Web3+Builder)
+
+</p>
 
 # Sam 👋
 
@@ -24,14 +21,20 @@ Creator of **Kova** — an AI-integrated programming language with a first-class
 
 ## Building
 
-- **Kova** → symbolic AI workflow language with `Prob<T>`, execution graphs, CLI tooling, and live AI integrations.  
-  [github.com/kova-lang/kova](https://github.com/kova-lang/kova)
+### Kova
+Symbolic AI workflow language with `Prob<T>`, execution graphs, CLI tooling, and live AI integrations.
 
-- **NexxiBook** → location-aware booking marketplace for service professionals.  
-  `Private Repository`
+🔗 https://github.com/kova-lang/kova
 
-- **PocketBrain** → AI-powered mobile thought capture and voice-note system.  
-  `Launching Soon`
+### NexxiBook
+Location-aware booking marketplace for service professionals.
+
+`Private Repository`
+
+### PocketBrain
+AI-powered mobile thought capture and voice-note system.
+
+`Launching Soon`
 
 ---
 
@@ -45,13 +48,10 @@ Creator of **Kova** — an AI-integrated programming language with a first-class
 
 ## Connect
 
-- LinkedIn: [samuel-oguntimehin](https://linkedin.com/in/samuel-oguntimehin-1636331b3)
+- LinkedIn: https://linkedin.com/in/samuel-oguntimehin-1636331b3
 - Email: oguntimehinsamuel1@gmail.com
 
+---
 
-*"Building systems where deterministic software meets probabilistic AI."*
-
-    </td>
-  </tr>
-</table>
+> "Building systems where deterministic software meets probabilistic AI."
 ```
