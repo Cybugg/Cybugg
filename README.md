@@ -1,4 +1,3 @@
-```html
 <table>
   <tr>
     <td width="38%">
@@ -49,7 +48,6 @@ Creator of **Kova** — an AI-integrated programming language with a first-class
 - LinkedIn: [samuel-oguntimehin](https://linkedin.com/in/samuel-oguntimehin-1636331b3)
 - Email: oguntimehinsamuel1@gmail.com
 
----
 
 *"Building systems where deterministic software meets probabilistic AI."*
 
