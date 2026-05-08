@@ -16,7 +16,7 @@
 
 **Full-Stack Engineer • AI Systems Builder • PL Designer**
 
-Mechanical Engineering graduate building compilers, AI systems, and decentralized applications.
+Mechanical Engineering graduate building web/mobile appliactions, compilers, AI systems, and decentralized applications.
 
 Creator of **Kova**, an AI-integrated programming language with a first-class probabilistic type system for handling uncertainty.
 
