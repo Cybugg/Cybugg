@@ -1,62 +1,59 @@
+```html
 <table>
-  <td  width="400">
-      <img src="prehistoric.png" width="400" height="850" alt="Prehistoric battle on a rocky plain">
+  <tr>
+    <td width="38%">
+      <img 
+        src="prehistoric.png" 
+        alt="Prehistoric battlefield art"
+        style="width:100%; height:100%; object-fit:cover; border-radius:12px;"
+      />
     </td>
-    <td valign="top">
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full-Stack+Engineer;Web3+Developer;AI+Builder;Systems+Thinker)
-![Profile Views](https://komarev.com/ghpvc/?username=cybugg&color=blue)
 
-# Hi, I'm Samuel Oguntimehin (Sam) 👋
+    <td valign="top" width="62%">
 
-**Full-Stack Engineer | Programming Language Designer | Web3 Developer**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Full-Stack+Engineer;Programming+Language+Designer;AI+%2B+Web3+Builder)
 
-Mechanical Engineering graduate who builds compilers, AI-integrated systems, and decentralized applications. I designed and implemented **Kova**, a programming language with a first-class probabilistic type system for AI uncertainty from scratch, including the lexer, parser, semantic analyzer, interpreter, and execution graph engine.
+# Sam 👋
 
----
+**Full-Stack Engineer • AI Systems Builder • PL Designer**
 
-## What I am building
+Mechanical Engineering graduate building compilers, AI systems, and decentralized applications.
 
-- **Kova**: a symbolic AI workflow language with a probabilistic type system. Every AI call returns `Prob<T>`. Uncertainty is structural, not an afterthought. 120 tests passing, live Groq integration, CLI, execution graph engine. [github.com/kova-lang/kova](https://github.com/kova-lang/kova)
-- **Nexxibook**: NexxiBook is a location-aware service marketplace that enables users to discover and book nearby service professionals (barbers, makeup artists, nail techs, etc.) through a fast, structured, and reliable platform. [REPO IS PRIVATE]
-- **Pocket Brain Mobile**: Turn your ideas in to instant capture[REPO IS PRIVATE][To be realeased this week]
----
-
-## Tech Stack
-
-**Languages**
-`JavaScript` `TypeScript` `Python` `C++` `Solidity` `Motoko` `Kova`
-
-**Systems and PL Theory**
-`Interpreter design` `Recursive-descent parsing` `AST construction` `Semantic analysis` `Type systems` `DSL development` `Execution graph analysis`
-
-**AI and ML**
-`Probabilistic type systems` `Groq API` `OpenAI API` `Whisper STT` `AI workflow integration` `Prompt engineering`
-
-**Backend**
-`Node.js` `Express` `PostgreSQL` `MongoDB` `Prisma ORM` `REST APIs` `Cloud infrastructure`
-
-**Frontend**
-`Next.js (App Router)` `React` `Tailwind CSS` 
-
-**Web3**
-`EVM Smart Contracts` `Internet Computer Protocol (ICP)` `Motoko` `Wallet authentication` `dApp architecture` `On-chain asset systems`
-
-**Engineering**
-`SolidWorks` `Thermodynamic modelling` `Mechanical fabrication`
-
+Creator of **Kova** — an AI-integrated programming language with a first-class probabilistic type system for handling uncertainty.
 
 ---
 
+## Building
+
+- **Kova** → symbolic AI workflow language with `Prob<T>`, execution graphs, CLI tooling, and live AI integrations.  
+  [github.com/kova-lang/kova](https://github.com/kova-lang/kova)
+
+- **NexxiBook** → location-aware booking marketplace for service professionals.  
+  `Private Repository`
+
+- **PocketBrain** → AI-powered mobile thought capture and voice-note system.  
+  `Launching Soon`
+
+---
+
+## Stack
+
+`JavaScript` `TypeScript` `Python` `C++` `Solidity` `Node.js`  
+`Next.js` `React Native` `PostgreSQL` `MongoDB` `Prisma`  
+`Compiler Design` `ASTs` `Semantic Analysis` `Web3` `AI Systems`
+
+---
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/samuel-oguntimehin-1636331b3](https://linkedin.com/in/samuel-oguntimehin-1636331b3)
+- LinkedIn: [samuel-oguntimehin](https://linkedin.com/in/samuel-oguntimehin-1636331b3)
 - Email: oguntimehinsamuel1@gmail.com
 
 ---
 
-*I combine engineering precision with software curiosity. Currently exploring the intersection of symbolic program structure and probabilistic AI models.*
+*"Building systems where deterministic software meets probabilistic AI."*
 
-⭐️ *If you like what I’m building, feel free to follow and star my projects. ^ ? ^ *
+    </td>
+  </tr>
 </table>
-
+```
