@@ -1,7 +1,7 @@
 
 <table>
 <tr>
-<td width="40%" valign="top">
+<td width="40%" valign="center">
 
 <img src="prehistoric.png" width="100%" height="980"/>
 <img src="prehistoric.png" width="100%" height="980"/>
