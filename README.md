@@ -1,6 +1,6 @@
 <table>
   <td  width="400">
-      <img src="prehistoric.png" width="400" height="850" alt="Inferno Canto VIII - Gustave Doré">
+      <img src="prehistoric.png" width="400" height="850" alt="Prehistoric battle on a rocky plain">
     </td>
     <td valign="top">
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full-Stack+Engineer;Web3+Developer;AI+Builder;Systems+Thinker)
