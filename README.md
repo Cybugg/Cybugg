@@ -1,3 +1,8 @@
+<table>
+  <td  width="400">
+      <img src="prehistoric.png" width="400" height="850" alt="Inferno Canto VIII - Gustave Doré">
+    </td>
+    <td valign="top">
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full-Stack+Engineer;Web3+Developer;AI+Builder;Systems+Thinker)
 ![Profile Views](https://komarev.com/ghpvc/?username=cybugg&color=blue)
 
@@ -31,7 +36,7 @@ Mechanical Engineering graduate who builds compilers, AI-integrated systems, and
 `Node.js` `Express` `PostgreSQL` `MongoDB` `Prisma ORM` `REST APIs` `Cloud infrastructure`
 
 **Frontend**
-`Next.js (App Router)` `React` `Tailwind CSS`
+`Next.js (App Router)` `React` `Tailwind CSS` 
 
 **Web3**
 `EVM Smart Contracts` `Internet Computer Protocol (ICP)` `Motoko` `Wallet authentication` `dApp architecture` `On-chain asset systems`
@@ -39,25 +44,6 @@ Mechanical Engineering graduate who builds compilers, AI-integrated systems, and
 **Engineering**
 `SolidWorks` `Thermodynamic modelling` `Mechanical fabrication`
 
----
-
-## Projects
-
-**Kova Programming Language**   (2025–Present)
-
-A programming language built from first principles. Kova introduces `Prob<T>`, a probabilistic type that wraps every AI call result. The semantic analyzer enforces that uncertain values cannot be used without explicit resolution via `resolve()`. The execution graph engine produces a structured map of every program run, showing where AI uncertainty enters and propagates. Built without frameworks: lexer, recursive-descent parser, semantic analyzer, async interpreter, execution graph engine, CLI.
-
-**AgriEthos**  2025
-Full-stack digital agriculture platform connecting farmers, consumers, and reviewers. Wallet-based authentication, QR code traceability, automated verification workflows, production cloud infrastructure. Sole engineer from architecture to deployment.
-
-**GAMEGRID Blockchain**  2024
-Decentralized gaming platform on the Internet Computer Protocol. Smart-contract game logic, on-chain asset ownership, player marketplace.
-
-**BEME Automation System**  2024–2025
-Software system to automate generation of Bills of Engineering Measurement and Evaluation for piping systems directly from building plan designs.
-
-**Emoji Cleaner**  2025
-VS Code extension that removes emojis, invisible Unicode characters, and AI-generated text artifacts from codebases. 81+ installs on the VS Code Marketplace.
 
 ---
 
@@ -72,3 +58,5 @@ VS Code extension that removes emojis, invisible Unicode characters, and AI-gene
 *I combine engineering precision with software curiosity. Currently exploring the intersection of symbolic program structure and probabilistic AI models.*
 
 ⭐️ *If you like what I’m building, feel free to follow and star my projects. ^ ? ^ *
+</table>
+
