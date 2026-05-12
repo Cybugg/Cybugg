@@ -10,6 +10,7 @@
 
 <td width="60%" valign="top">
 
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Full-Stack+Engineer;Programming+Language+Designer;AI+%2B+Web3+Builder)
 
 # Samuel Oguntimehin
