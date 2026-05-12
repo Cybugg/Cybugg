@@ -31,7 +31,8 @@ Creator of **Kova**, an AI-integrated programming language with a first-class pr
 
 - **NexxiBook** → location-aware booking marketplace for service professionals.  
   `Private Repository`
-
+- **AgentPay OS** → Programmable treasury for agents and businesses.  
+  `Launching Soon`
 - **PocketBrain** → AI-powered mobile thought capture and voice-note system.  
   `Launching Soon`
 
