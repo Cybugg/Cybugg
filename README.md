@@ -40,6 +40,9 @@ Creator of **Kova**, an AI-integrated programming language with a first-class pr
 ---
 
 ## Stack
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,solidity,nodejs,nextjs,react,postgres,mongodb" />
+</p>
 
 `JavaScript` `TypeScript` `Python` `C++` `Solidity` `Node.js`  
 `Next.js` `React Native` `PostgreSQL` `MongoDB` `Prisma`  
