@@ -9,8 +9,8 @@
 </td>
 
 <td width="60%" valign="top">
-![alt text](./samurai.gif)
 
+---  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Full-Stack+Engineer;Programming+Language+Designer;AI+%2B+Web3+Builder)
 
 # Samuel Oguntimehin
@@ -54,6 +54,7 @@ Creator of **Kova**, an AI-integrated programming language with a first-class pr
 
 - LinkedIn: https://linkedin.com/in/samuel-oguntimehin-1636331b3
 - Email: oguntimehinsamuel1@gmail.com
+![[samurai.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVlazdpYjQ5MjJpZWNmZXh6bTd5cjF3MHUyYXRrMzluYXI0MXA5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VQxH7UDFxxCMw/giphy.gif))](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5yMDgxZ3R2Z2NtZG81cGNoaHd0em0waWx3Nms5YTNzejVoc2M0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zURdnPrp9DGNtox5Q1/giphy.gif)
 
 ---
 
