@@ -64,3 +64,4 @@ Creator of **Kova**, an AI-integrated programming language with a first-class pr
 </tr>
 </table>
 ```
+---
