@@ -47,7 +47,7 @@ Creator of **Kova**, an AI-integrated programming language with a first-class pr
 - **Compiler Design**
 - **Artificial Intelligence** 
 
-#### Feel free to connect with me if any of these intersects with your own study. I would love to learn from you as well.
+#### Feel free to connect with me if any of these intersects with your own studies. I would love to learn from you as well.
 ---
 
 ## Stack
