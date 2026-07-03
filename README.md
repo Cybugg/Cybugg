@@ -31,7 +31,7 @@ Creator of **Kova**, an AI-integrated programming language with a first-class pr
 - **Kova** → symbolic AI workflow language with `Prob<T>`, execution graphs, CLI tooling, and live AI integrations.  
   https://github.com/kova-lang/kova
 
-- **NexxiBook** → Booking platform for service providers of the future.  
+- **Zova (Formerly NexxiBook)** → Booking platform for service providers of the future.  
   `Private Repository`
 - **AgentPay OS** → Programmable treasury for agents and businesses.  
   MVP: https://app.agentpayos.xyz/
