@@ -22,6 +22,7 @@ Mechanical Engineering graduate building web/mobile appliactions, compilers, AI 
 
 機械工学卒のエンジニア。Web/モバイルアプリ、コンパイラ、AI、dApps（分散型アプリ）を開発中。
 
+
 Creator of **Kova**, an AI-integrated programming language with a first-class probabilistic type system for handling uncertainty.
 
 ---
