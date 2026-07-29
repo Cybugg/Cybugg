@@ -12,7 +12,7 @@
 
 ---  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Full-Stack+Engineer;Programming+Language+Designer;AI+%2B+Web3+Builder)
-##### Honestly, the momment you think you know it all, you have lost.
+##### Honestly, the momment you think you know it all, you have lost...
 
 # Samuel Oguntimehin
 
